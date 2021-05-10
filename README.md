@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rafaelasencio
+- 👨‍💻 I’m iOS developer.
+- 🌱 I’m currently expanding my knowledge in CI/CD, TDD & Architecture Patterns.
+- 📫 How to reach me:
+  - https://rafaelasenciodeveloper.medium.com
+  - https://www.linkedin.com/in/rafaelasencio/
